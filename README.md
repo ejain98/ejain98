@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejain98
 - 👀 I’m interested in programming languages like Java, C++, Pyhton, HTML5/CSS, and Javascript. 
-- 🌱 I’m currently doing pg diploma in Information and Communication Technology at Douglas College.
-- 💞️ I’m looking for internship programs.
+- 🌱 Graduated from Douglas College in  PDD in Information and Communication Technology.
+- 💞️ I’m looking for jobs in technical industry.
 - 📫 How to reach me ... You can send me an email at jainekta1510@gmail.com
 
 <!---
